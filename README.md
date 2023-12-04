@@ -1,11 +1,10 @@
 # Vending-machine
 A course work of Lab5 in NTHU Hardware Design and Lab.
 
-Lab5 is a group project, the other one is Music_fpga.v,
-but it is implemented by my teammate so I didn't include it in this repository.
+This Verilog code similate the behaviour of a vending machine on Xilinx FPGA BASYS3 board.
 
-In this group project I implement the design of a vending machine using Verilog that 
-runs on FPGA BASYS3.
+The .xdc file is the constraint file which can be used in Vivado when creating new project,
+it defines the relevent infomration to the I/O ports.
 
 The Ip directory is borrowed from Sample code provided on course.
 
