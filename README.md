@@ -1,7 +1,7 @@
 # Vending-machine
-A course work in NTHU Hardware Design and Lab.
+A course work of Lab5 in NTHU Hardware Design and Lab.
 
-This is a group project, the other one is Music_fpga.v,
+Lab5 is a group project, the other one is Music_fpga.v,
 but it is implemented by my teammate so I didn't include it in this repository.
 
 In this group project I implement the design of a vending machine using Verilog that 
